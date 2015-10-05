@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Lin\Desktop\org.eclipse.paho.mqtt.java-1.0.2\org.eclipse.paho.mqtt.java-1.0.2\org.eclipse.paho.android.service.sample\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-ac67f3761984dffb312fb56bf65813ffbd0cf81d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lin\Desktop\org.eclipse.paho.mqtt.java-1.0.2\org.eclipse.paho.mqtt.java-1.0.2\org.eclipse.paho.android.service.sample\app\src\main\libs\org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="442f81337cb942a855ab20a4a16bfe43adb612c7">
+        <dex dex="C:\Users\Lin\Desktop\org.eclipse.paho.mqtt.java-1.0.2\org.eclipse.paho.mqtt.java-1.0.2\org.eclipse.paho.android.service.sample\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.android.service-1.0.2-e9ead71ceabbc5862c55592bcfbab8a7de3d4478.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lin\Desktop\org.eclipse.paho.mqtt.java-1.0.2\org.eclipse.paho.mqtt.java-1.0.2\org.eclipse.paho.android.service.sample\app\src\main\libs\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="C:\Users\Lin\Desktop\org.eclipse.paho.mqtt.java-1.0.2\org.eclipse.paho.mqtt.java-1.0.2\org.eclipse.paho.android.service.sample\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3-1.0.2-dec3d861f9b7d42296124355d1d0429d2db06885.jar" />
+    </item>
+
+</items>
